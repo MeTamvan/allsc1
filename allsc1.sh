@@ -5,7 +5,7 @@
   echo '\033[1;34m+++++++++++++++++++++++++++++++++++++++++++++++++++++'
   echo '\n\033[1;31mWALLCONE TO TOOLS'
   echo '\033[1;32m-> insya allah lengkap semua botnya\n-> insya allah dapat membantu\n-> JANGAN LUPA SUBSCRIBE CHANNEL UANG PULSA GRATIS'
-  echo '-> created by Mr.TaMvAn'
+  echo '\n->adi bordir-> created by Mr.TaMvAn'
   echo '\n\033[1;34m+++++++++++++++++++++++++++++++++++++++++++++++++++++'
 
 #perulangan
